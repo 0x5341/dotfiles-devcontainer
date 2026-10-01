@@ -1,2 +1,3 @@
 [tools]
 lazygit = "latest"
+"aqua:boyter/scc" = "latest"
